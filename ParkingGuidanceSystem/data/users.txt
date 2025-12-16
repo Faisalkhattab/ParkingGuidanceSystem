@@ -1,0 +1,4 @@
+1,admin,123,ADMIN
+2,entryop,123,ENTRY_OPERATOR
+3,exitop,123,EXIT_OPERATOR
+4,customer,123,CUSTOMER
